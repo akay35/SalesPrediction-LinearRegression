@@ -54,4 +54,12 @@ These results suggest the model performs well, with no overfitting.
 
 This project effectively demonstrates how advertising expenditures (specifically on TV) can predict sales. The linear regression models have shown good predictive accuracy and can be further refined for better performance.
 
+<hr style="border: 1px solid rgba(0,0,0,0.1); width: 50%;">
+<a href="https://www.linkedin.com/in/akayaydin/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn Profile" width="80" height="80"/>
+ </a>
+ <a href="https://medium.com/@akay989/">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*jfdwtvU6V6g99q3G7gq7dQ.png" width="115" height="80"/>  
+ </a>
+
 
